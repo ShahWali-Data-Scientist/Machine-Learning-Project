@@ -14,3 +14,4 @@ logging.basicConfig(
     level= logging.INFO,
 )
 
+logging.info("Logging has been started")
